@@ -1,0 +1,179 @@
+.key {
+  display:inline-block;
+  min-width:1.4em;
+  height:1.8em;
+  margin: 0.2em 0.2em;
+  padding: 0 0.2em;
+  border-radius: 0.2em;
+  box-shadow: 0px 0.02em 0.2em 0.02em rgba(0, 0, 0, 0.5);
+  background: #fefefe;
+
+  font: bold 0.95em/2em Helvetica, serif ;
+  text-align: center;
+  color: #666;
+}
+.key_half {
+  font-size: 0.5em;
+}
+.key_small {
+  font-size: 0.7em;
+}
+.key_large {
+  font-size: 1.3em;
+}
+.key_2x {
+  font-size: 2em;
+}
+.key_3x {
+  font-size: 3em;
+}
+.key_4x {
+  font-size: 4em;
+}
+.key_5x {
+  font-size: 5em;
+}
+
+.key_black {
+  background: #666;
+  color: #fefefe;
+}
+.key_uppercase {
+  text-transform: uppercase;
+}
+
+.key_apple:before {
+  content: '\f8ff';
+}
+.key_cmd:before {
+  content: '\2318';
+}
+.key_opt:before {
+  content: '\2325';
+}
+.key_shift:before {
+  content: '\21e7';
+}
+.key_ctrl:before {
+  content: '\2303';
+}
+.key_tab:before {
+  content: '\21e5';
+}
+.key_esc:before {
+  content: '\238b';
+}
+.key_bs:before {
+  content: '\232b';
+}
+.key_return:before {
+  content: '\23ce';
+}
+.key_delete:before {
+  content: '\2326';
+}
+.key_clear:before {
+  content: '\2327';
+}
+.key_eject:before {
+  content: '\23cf';
+}
+.key_capslock:before {
+  content: '\21ea';
+}
+.key_pageup:before {
+  content: '\21de';
+}
+.key_pagedown:before {
+  content: '\21df';
+}
+.key_home:before {
+  content: '\2196';
+}
+.key_end:before {
+  content: '\2198';
+}
+.key_left:before {
+  content: '\21e0';
+}
+.key_up:before {
+  content: '\21e1';
+}
+.key_right:before {
+  content: '\21e2';
+}
+.key_down:before {
+  content: '\21e3';
+}
+.key_eacute:before {
+  content: '\c9';
+}
+.key_clock:before {
+  content: '\231a';
+}
+.key_gear:before {
+  content: '\2699';
+}
+.key_space:before {
+  content: '\a0';
+}
+.key_asterisk:before {
+  content: '\2217';
+}
+.key_not:before {
+  content: '\ac';
+}
+.key_sup2:before {
+  content: '\b2';
+}
+.key_sup3:before {
+  content: '\b3';
+}
+.key_times:before {
+  content: '\d7';
+}
+.key_divide:before {
+  content: '\f7';
+}
+.key_radic:before {
+  content: '\221a';
+}
+.key_sdot:before {
+  content: '\22c5';
+}
+.key_middot:before {
+  content: '\b7';
+}
+.key_check:before {
+  content: '\2713';
+}
+.key_diamond:before {
+  content: '\25c6';
+}
+.key_diamond_white:before {
+  content: '\25c7';
+}
+.key_quote:before {
+  content: '\22';
+}
+.key_amp:before {
+  content: '\26';
+}
+.key_lt:before {
+  content: '\3c';
+}
+.key_gt:before {
+  content: '\3e';
+}
+.key_copy:before {
+  content: '\a9';
+}
+.key_deg:before {
+  content: '\b0';
+}
+.key_pm:before {
+  content: '\b1';
+}
+.key_yen:before {
+  content: '\a5';
+}
