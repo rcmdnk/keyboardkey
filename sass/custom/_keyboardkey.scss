@@ -1,0 +1,43 @@
+.key {
+  display:inline-block;
+  min-width:1.4em;
+  height:1.8em;
+  margin: 0.2em 0.2em;
+  padding: 0 0.2em;
+  border-radius: 0.2em;
+  box-shadow: 0px 0.02em 0.2em 0.02em rgba(0, 0, 0, 0.5);
+  background: #fefefe;
+
+  font: bold 0.95em/2em Helvetica, serif ;
+  text-align: center;
+  color: #666;
+}
+.key_half {
+  font-size: 0.5em;
+}
+.key_small {
+  font-size: 0.7em;
+}
+.key_large {
+  font-size: 1.3em;
+}
+.key_2x {
+  font-size: 2em;
+}
+.key_3x {
+  font-size: 3em;
+}
+.key_4x {
+  font-size: 4em;
+}
+.key_5x {
+  font-size: 5em;
+}
+
+.key_black {
+  background: #666;
+  color: #fefefe;
+}
+.key_uppercase {
+  text-transform: uppercase;
+}
