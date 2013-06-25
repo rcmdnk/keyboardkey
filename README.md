@@ -32,7 +32,7 @@ If you like black key, use `key_black`.
 
 Examples:
 
-Show &#x21e5;:
+Show &#x2303;:
 
     {% key symbol control %} :
 
@@ -53,4 +53,4 @@ If you `keyboardkey.scss` in your site, you can use:
     "<i class='key'>A</i>"
     "<i class='key key_ctrl'></i>"
 
-to show keys of A or &#x21e5;.
+to show keys of A or &#x2303;.
