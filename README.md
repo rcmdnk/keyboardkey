@@ -44,6 +44,7 @@ Show black, large key with a in uppercase:
 
     {% key A key_black key_large key_uppercase%} :
 
+More examples can be found [here](http://rcmdnk.github.io/blog/2013/06/19/blog-octopress/).
 
 # Standalone scss file
 `keyboardkey.scss` allows you to use direct discription w/o Liquid filter.
