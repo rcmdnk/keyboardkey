@@ -55,3 +55,7 @@ If you `keyboardkey.scss` in your site, you can use:
     "<i class='key key_ctrl'></i>"
 
 to show keys of A or &#x2303;.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rcmdnk/keyboardkey/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
