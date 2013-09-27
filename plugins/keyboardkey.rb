@@ -1,5 +1,5 @@
 # Keyboard Key on octupress
-# rcmdnk (http://rcmdnk.github.io/)
+# rcmdnk (https://github.com/rcmdnk/keyboardkey)
 
 module Jekyll
   class KeyboardKey < Liquid::Tag
