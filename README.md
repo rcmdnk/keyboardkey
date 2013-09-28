@@ -6,9 +6,9 @@ keyboardkey provides "key" tag for the easy writing way of keyboard like symbol 
 # Installation
 
 Copy `plugins/keyboardkey.rb` to your `plugins` directory,
-and `sass/custom/_keyboardkey.scss` to your `sass/custom/` directory.
+and `sass/plugins/_keyboardkey.scss` to your `sass/plugins/` directory.
 
-Add a following line to `sass/custom/_styles.scss`:
+Add a following line to `sass/plugins/_plugins.scss`:
 
     @import "keyboardkey";
 
