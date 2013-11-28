@@ -1,4 +1,4 @@
-# Keyboard Key on octupress
+# Keyboard Key on Octopress
 # rcmdnk (https://github.com/rcmdnk/keyboardkey)
 
 module Jekyll
