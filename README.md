@@ -3,7 +3,7 @@ keyboardkey
 
 keyboardkey provides "key" tag for the easy writing way of keyboard like symbol for Octopress.
 
-# Installation
+## Installation
 
 Copy `plugins/keyboardkey.rb` to your `plugins` directory,
 and `sass/plugins/_keyboardkey.scss` to your `sass/plugins/` directory.
@@ -14,7 +14,8 @@ Add a following line to `sass/plugins/_plugins.scss`:
 
 Done!
 
-# Usage
+## Usage
+
 Use `key` tag to produce keyboardkey like symbol like:
 
     {% key A%}
@@ -46,7 +47,8 @@ Show black, large key with a in uppercase:
 
 More examples can be found [here](http://rcmdnk.github.io/blog/2013/06/19/blog-octopress/).
 
-# Standalone scss file
+## Standalone scss file
+
 `keyboardkey.scss` allows you to use direct discription w/o Liquid filter.
 
 If you `keyboardkey.scss` in your site, you can use:
@@ -55,7 +57,3 @@ If you `keyboardkey.scss` in your site, you can use:
     "<i class='key key_ctrl'></i>"
 
 to show keys of A or &#x2303;.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rcmdnk/keyboardkey/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
