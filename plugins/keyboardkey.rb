@@ -92,8 +92,6 @@ module Jekyll
               @key = '&#x25c7;'
             elsif arr[1].casecmp('quote') == 0 or arr[1].casecmp('quot') == 0
               @key = '&quot;'
-            elsif arr[1].casecmp('backquote') == 0
-              @key = '&#096;'
             elsif arr[1].casecmp('amp') == 0
               @key = '&amp;'
             elsif arr[1].casecmp('lt') == 0 or arr[1].casecmp('lchevrons') == 0
