@@ -18,7 +18,7 @@ Done!
 
 Use `key` tag to produce keyboardkey like symbol like:
 
-    {% key A%}
+    {% key A %}
 
 For some symbols, you can use `symbol` argument at the second
 with symbol names such `control`, `option`, `shift`, etc... (they are Mac symbols.)
@@ -43,7 +43,7 @@ Show Control:
 
 Show black, large key with a in uppercase:
 
-    {% key A key_black key_large key_uppercase%} :
+    {% key A key_black key_large key_uppercase %} :
 
 More examples can be found [here](http://rcmdnk.github.io/blog/2013/06/19/blog-octopress/).
 
